@@ -1,0 +1,39 @@
+.Contanier {
+    width: 100%;
+}
+
+.Center {
+    text-align: center;
+
+}
+
+.Search {
+    background-color: #EEEEEE;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+table {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.Left {
+    width: 37%;
+    background-color: #7EE5DA;
+}
+
+.Middle {
+    width: 20%;
+    background-color: #70CCC2;
+    font-size: small;
+}
+
+.Right {
+    width: 50%;
+    background-color: #62B3AA;
+    font-size: small;
+
+}
